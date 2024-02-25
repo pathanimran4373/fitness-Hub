@@ -1,0 +1,29 @@
+.section4 {
+    background-image: url(../../All-images/fitness6.jpg);
+    width: 100%;
+    height: 70vh;
+    aspect-ratio: 1/1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+
+    h6 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: black;
+    }
+
+    h3 {
+        font-size: 15px;
+        font-weight: bold;
+        padding: 10px;
+        color: red;
+    }
+
+}

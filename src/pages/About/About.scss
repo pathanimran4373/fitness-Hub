@@ -1,0 +1,40 @@
+.section2 {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  padding-top: 5rem;
+
+  .section2_content {
+    padding-left: 5rem;
+    width: 40%;
+
+    h2 {
+      font-size: 2.5rem;
+      margin-top: 10rem;
+      text-transform: uppercase;
+      color: #161418;
+      font-weight: 700;
+    }
+
+    h6 {
+      font-size: 1.5rem;
+      line-height: 3rem;
+      color: #161418;
+      font-weight: 700;
+      margin-top: 3rem;
+    }
+
+    P {
+      font-size: 1.5rem;
+      margin-top: 1rem;
+      color: #161418;
+      font-weight: 400;
+    }
+  }
+
+  .sec2img {
+    img {
+      width: 80%;
+    }
+  }
+}

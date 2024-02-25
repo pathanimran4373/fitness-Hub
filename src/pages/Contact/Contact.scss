@@ -1,0 +1,43 @@
+.section5_6 {
+  min-height: 100vh;
+
+  .sec {
+    display: flex;
+
+    .gmi {
+      width: 50%;
+
+      img {
+        width: 100%;
+        min-height: 80vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+    }
+  }
+
+  .secText {
+    display: flex;
+
+    .one {
+      text-align: center;
+      margin: 1rem;
+
+      h5 {
+        font-size: 2rem;
+        text-transform: uppercase;
+        line-height: 3rem;
+        font-weight: 700;
+        margin-top: 2rem;
+      }
+
+      p {
+        font-size: 1.4rem;
+        line-height: 3rem;
+        padding-top: 2rem;
+        font-weight: 400;
+      }
+    }
+  }
+}

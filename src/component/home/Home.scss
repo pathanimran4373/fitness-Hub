@@ -1,0 +1,30 @@
+.homepage {
+  width: 100%;
+  background: url(../../All-images/fitness1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  aspect-ratio: 1/1;
+  padding-top: 6%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .home_content {
+    margin: 0 40rem 20rem 0;
+    h1 {
+      margin-top: 11rem;
+      color: white;
+      font-size: 5rem;
+
+      span {
+        color: red;
+      }
+    }
+    p {
+      font-size: larger;
+      line-height: normal;
+    }
+  }
+}
